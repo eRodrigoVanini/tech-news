@@ -36,6 +36,16 @@ This project served as an excellent practical exercise to consolidate the use of
 
 <br>
 
+## 🔮 Future Improvements
+
+Here are some features and improvements planned for the future:
+
+* **Full Responsiveness:** Implement media queries to ensure the layout adapts perfectly to mobile and tablet screens.
+* **Light Mode:** Add a theme switcher (light/dark mode) using CSS variables.
+* **CSS Animations:** Include subtle animations or transitions to make the user interface more dynamic.
+
+  <br>
+
 ## :arrow_forward: How to Run
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your browser.
