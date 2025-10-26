@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://erodrigovanini.github.io/social-links-page/">
+  <a href="https://erodrigovanini.github.io/tech-news/">
     <img src="https://img.shields.io/badge/ACESS%20THE%20PROJECT-000000?style=for-the-badge" alt="ACESS THE PROJECT">
   </a>
 </p>
